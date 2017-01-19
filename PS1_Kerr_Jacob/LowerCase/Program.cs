@@ -10,12 +10,24 @@ namespace PS1
     {
         static void Main(string[] args)
         {
-            int index = 0;
-            String current = args[index];
-            while (index < args.GetLength(0))
+            string input = "";
+            string line;
+            while ((line = Console.ReadLine()) != null)
             {
-                Console.WriteLine(args[index].ToLower());
-                index++;
+                input = input + line + '\n';
+            }
+
+
+            char[] delimiters = { ' ', '\t', '\n' };
+            List<string> tokens = new List<string>(input.Split(delimiters));
+
+
+            foreach (string token in tokens)
+            {
+                if (token.Length > 0)
+                {
+                    Console.WriteLine(token.ToLower());
+                }
             }
         }
     }

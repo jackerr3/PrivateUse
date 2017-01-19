@@ -4,3 +4,9 @@ c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\Low
 c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\LowerCase\obj\Debug\LowerCase.csprojResolveAssemblyReference.cache
 c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\LowerCase\obj\Debug\LowerCase.exe
 c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\LowerCase\obj\Debug\LowerCase.pdb
+X:\Desktop\PrivateUse\PS1_Kerr_Jacob\LowerCase\bin\Debug\LowerCase.exe.config
+X:\Desktop\PrivateUse\PS1_Kerr_Jacob\LowerCase\obj\Debug\LowerCase.exe
+X:\Desktop\PrivateUse\PS1_Kerr_Jacob\LowerCase\obj\Debug\LowerCase.pdb
+X:\Desktop\PrivateUse\PS1_Kerr_Jacob\LowerCase\bin\Debug\LowerCase.exe
+X:\Desktop\PrivateUse\PS1_Kerr_Jacob\LowerCase\bin\Debug\LowerCase.pdb
+X:\Desktop\PrivateUse\PS1_Kerr_Jacob\LowerCase\obj\Debug\LowerCase.csprojResolveAssemblyReference.cache
