@@ -1,0 +1,9 @@
+C:\Users\zachary\StaticMethods\Demo\bin\Debug\Demo.XML
+C:\Users\zachary\StaticMethods\Demo\bin\Debug\Demo.exe
+C:\Users\zachary\StaticMethods\Demo\bin\Debug\Demo.pdb
+C:\Users\zachary\StaticMethods\Demo\bin\Debug\Hailstone.dll
+C:\Users\zachary\StaticMethods\Demo\bin\Debug\Hailstone.pdb
+C:\Users\zachary\StaticMethods\Demo\bin\Debug\Hailstone.xml
+C:\Users\zachary\StaticMethods\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\zachary\StaticMethods\Demo\obj\x86\Debug\Demo.exe
+C:\Users\zachary\StaticMethods\Demo\obj\x86\Debug\Demo.pdb

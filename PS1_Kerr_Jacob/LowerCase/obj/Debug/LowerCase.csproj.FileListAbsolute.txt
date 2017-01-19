@@ -1,0 +1,6 @@
+c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\LowerCase\bin\Debug\LowerCase.exe.config
+c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\LowerCase\bin\Debug\LowerCase.exe
+c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\LowerCase\bin\Debug\LowerCase.pdb
+c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\LowerCase\obj\Debug\LowerCase.csprojResolveAssemblyReference.cache
+c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\LowerCase\obj\Debug\LowerCase.exe
+c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\LowerCase\obj\Debug\LowerCase.pdb

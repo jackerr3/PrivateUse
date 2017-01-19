@@ -1,0 +1,6 @@
+C:\Users\zachary\StaticMethods\Grep\bin\Debug\Grep.XML
+C:\Users\zachary\StaticMethods\Grep\bin\Debug\Grep.exe
+C:\Users\zachary\StaticMethods\Grep\bin\Debug\Grep.pdb
+C:\Users\zachary\StaticMethods\Grep\obj\x86\Debug\Grep.exe
+C:\Users\zachary\StaticMethods\Grep\obj\x86\Debug\Grep.pdb
+C:\Users\zachary\StaticMethods\Grep\bin\Debug\example.txt

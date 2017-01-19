@@ -1,0 +1,6 @@
+C:\Users\zachary\StaticMethods\DelegateExamples\bin\Debug\DelegateExamples.XML
+C:\Users\zachary\StaticMethods\DelegateExamples\bin\Debug\DelegateExamples.exe
+C:\Users\zachary\StaticMethods\DelegateExamples\bin\Debug\DelegateExamples.pdb
+C:\Users\zachary\StaticMethods\DelegateExamples\obj\x86\Debug\DelegateExamples.exe
+C:\Users\zachary\StaticMethods\DelegateExamples\obj\x86\Debug\DelegateExamples.pdb
+C:\Users\zachary\StaticMethods\DelegateExamples\obj\x86\Debug\DelegateExamples.csprojResolveAssemblyReference.cache

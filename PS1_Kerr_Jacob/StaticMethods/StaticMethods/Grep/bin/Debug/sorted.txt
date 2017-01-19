@@ -1,0 +1,10 @@
+               2 Dir(s)  786,682,458,112 bytes free
+01/12/2017  02:31 PM            22,696 Grep.vshost.exe
+01/12/2017  02:32 PM             1,315 Grep.XML
+01/12/2017  02:32 PM             5,120 Grep.exe
+01/12/2017  02:32 PM            11,776 Grep.pdb
+01/12/2017  02:36 PM                65 output.txt
+01/12/2017  02:40 PM                 0 sorted.txt
+01/12/2017  02:40 PM    <DIR>          .
+01/12/2017  02:40 PM    <DIR>          ..
+Done
