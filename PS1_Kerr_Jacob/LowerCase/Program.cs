@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Jacob Kerr u0858883
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +8,9 @@ using System.Threading.Tasks;
 
 namespace PS1
 {
-    class Program
+    /* This class takes in input text and an integer 'n' argument from the command line and outputs formatted text
+     * such that the output text contains n tokens per line. */
+    class ToLower
     {
         static void Main(string[] args)
         {

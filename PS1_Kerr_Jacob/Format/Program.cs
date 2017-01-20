@@ -1,29 +1,15 @@
-﻿using System;
+﻿//Jacob Kerr u0858883
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//namespace PS1
-//{
-//    class Program
-//    {
-//        static void Main(string[] args)
-//        {
-//        }
-//    }
-//}
-
-// Written by Joe Zachary for CS 3500
-
-//using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Text;
-
 namespace PS1
 {
-    class Program
+    /* This class takes in input text from the command line and outputs the text, one token at a time to the command line, all in lower case */
+    class Format
     {
         static void Main(string[] args)
         {

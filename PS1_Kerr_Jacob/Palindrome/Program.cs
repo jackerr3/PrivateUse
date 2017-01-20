@@ -1,12 +1,15 @@
-﻿using System;
+﻿//Jacob Kerr u0858883
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace PS1
-{ //hello
-    class Program
+{
+    /*This class takes in input text from the command line and outputs all lines that are palindromes.   */
+    class Palindrome
     {
         static void Main(string[] args)
         {
