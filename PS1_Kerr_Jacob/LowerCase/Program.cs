@@ -17,16 +17,15 @@ namespace PS1
                 input = input + line + '\n';
             }
 
+            // separates the strings
+            List<string> splitInput = new List<string>(input.Split());
 
-            char[] delimiters = { ' ', '\t', '\n' };
-            List<string> tokens = new List<string>(input.Split(delimiters));
-
-
-            foreach (string token in tokens)
+            //goes through each string individually and writes it to console in lowercase
+            foreach (string currentString in splitInput)
             {
-                if (token.Length > 0)
+                if (currentString.Length > 0)
                 {
-                    Console.WriteLine(token.ToLower());
+                    Console.WriteLine(currentString.ToLower());
                 }
             }
         }

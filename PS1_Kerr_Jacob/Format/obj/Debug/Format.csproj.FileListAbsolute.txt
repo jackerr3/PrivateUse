@@ -3,3 +3,8 @@ c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\For
 c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\Format\bin\Debug\Format.pdb
 c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\Format\obj\Debug\Format.exe
 c:\users\jacke\onedrive\documents\visual studio 2015\Projects\PS1_Kerr_Jacob\Format\obj\Debug\Format.pdb
+X:\Desktop\PrivateUse\PS1_Kerr_Jacob\Format\bin\Debug\Format.exe.config
+X:\Desktop\PrivateUse\PS1_Kerr_Jacob\Format\obj\Debug\Format.exe
+X:\Desktop\PrivateUse\PS1_Kerr_Jacob\Format\obj\Debug\Format.pdb
+X:\Desktop\PrivateUse\PS1_Kerr_Jacob\Format\bin\Debug\Format.exe
+X:\Desktop\PrivateUse\PS1_Kerr_Jacob\Format\bin\Debug\Format.pdb

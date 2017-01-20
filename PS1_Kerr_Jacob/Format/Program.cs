@@ -21,46 +21,43 @@ using System.Threading.Tasks;
 //using System.Linq;
 //using System.Text;
 
-namespace Grep
+namespace PS1
 {
-    class Grep
+    class Program
     {
-        /// <summary>
-        /// Reads lines of text from the standard input stream.  Any line that
-        /// contains the string provided as the first element of the args
-        /// array is printed to standard output.  All other lines are ignored.
-        /// If exactly one command line parameter is provided, a diagnostic
-        /// is printed to the standard error stream.
-        /// 
-        /// To run this inside of Eclipse, you first need to set the command
-        /// line parameters by right-clicking on the project and going
-        /// Properties > Debug > Command line arguments.  
-        /// 
-        /// To run this from a DOS window, open the window and navigate to 
-        /// the directory within the project directory that contains the
-        /// Grep.exe executable.  Then try entering something like
-        ///   type example.txt | grep the | sort > results.txt
-        /// This will find every line in somefile.txt that contains the
-        /// word "the", sort the resulting lines, and write everything
-        /// to results.txt.
-        /// </summary>
         static void Main(string[] args)
         {
-            // Make sure we have exactly one parameter.
-            if (args.Length != 1)
+            int resultInt = 0;
+            string line = "";
+            string input = "";
+
+            //checks if the first command line argument is a positive integer
+            if (Int32.TryParse(args[0], out resultInt) && resultInt > 0)
             {
-                Console.Error.WriteLine("Provide one string to search for");
-                System.Environment.Exit(1);
+            }
+            else
+            {
+                resultInt = 1;
             }
 
-            // Finds and prints the lines that contain the pattern
-            string pattern = args[0];
-            string line;
-            while ((line = Console.ReadLine()) != null)
+            //reads lines from command line and adds them to our string
+            while (((line = Console.ReadLine()) != null))
             {
-                if (line.Contains(pattern))
+                input = input + line + '\n';
+            }
+
+            //splits the input list
+            string[] splitStrings = (input.Split());
+            string outputLine = "";
+
+            //prints each of the elements of the list, with 'resultInt' strings per line
+            for (int index = 0; index < splitStrings.Length; index++)
+            {
+                outputLine += splitStrings[index] + " ";
+                if((index + 1) % resultInt == 0)
                 {
-                    Console.WriteLine(line);
+                    Console.WriteLine(outputLine);
+                    outputLine = "";
                 }
             }
         }
