@@ -1,2 +1,2 @@
 # PrivateUse
-For transferring home and lab code
+For personal code
